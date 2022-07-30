@@ -14,3 +14,5 @@ O Selenium, nada mais é, do que uma biblioteca que permite com que o Python abr
 
 - Exportação de Relatórios para Atualização de Planilhas;
 - Pesquisa Automática.
+
+![image](https://user-images.githubusercontent.com/102738385/181867296-029e3c34-33b2-44f5-a24c-1461856473fb.png)
