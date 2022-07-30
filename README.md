@@ -6,7 +6,7 @@ Atribuições da aula 03:
 
 A WEB Scraping é uma forma de coleta de dados da web/sites, onde são usados scripts e programas para “raspar” informações destes sites e que poderão ser usadas para futuras análises. 
 
-Durante a aula 03, coletamos a cotação de moedas: Dolar, Euro e Ouro em tempo real para atualização de planilhas referentes à produtos que recebem taxações e margens de lucro, no processo de compra e venda de uma empresa com o exportador ou um cliente.
+Durante a aula 03, coletamos a cotação de moedas: Dolar, Euro e Ouro em tempo real para atualização de planilhas referentes à produtos que recebem taxações e margens de lucro, no processo de compra e venda de uma empresa com um exportador ou um cliente.
 
 - Biblioteca Selenium;
 
